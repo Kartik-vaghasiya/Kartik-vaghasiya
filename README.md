@@ -1,4 +1,4 @@
-https://camo.githubusercontent.com/41d4e2a7c650543b963457ad2a3af27e269d036e528b80c2060aa75085dc943f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966
+
 <h1> Hii 👋 I’m Kartik Vaghasiya </h1>
 - 👀 I’m interested in Web Development, Problem Solving, Design Websites
 - 🌱 I’m currently learning Node.js, React.js,
